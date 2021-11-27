@@ -29,8 +29,8 @@
 <a href="https://www.instagram.com/when.i.blinked/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:tripathi.avinash094@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 
-👋 Hi! I am Avinash Tripathi.
-A Data Science Enthusiast. I love being able to tell people what to do based on data and I aspire to become an ML/DL Cognoscente and build solution that can actually help making the lives better. I am currently pursuing my major in Data Analytics from Northeastern University and I have hands on experience on Importatnt python and R libraries. I have a strong inclination for tinkering with Machine Learning and Deep Learning. I have worked in the domain of Natural Language Processing, Computer Vision and Generative Models. I am also experienced in working with Python3, R,  Neo4j, RDBMS..
+👋 Hi! I am <b>Avinash Tripathi</b>.
+A <strong>Data Science Enthusiast</strong>. I love being able to tell people what to do based on data and I aspire to become an ML/DL Cognoscente and build solution that can actually help making the lives better. I am currently pursuing my major in Data Analytics from Northeastern University and I have hands on experience on Importatnt python and R libraries. I have a strong inclination for tinkering with Machine Learning and Deep Learning. I have worked in the domain of Natural Language Processing, Computer Vision and Generative Models. I am also experienced in working with Python3, R,  Neo4j, RDBMS..
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tensorflow, Keras, Scrapy and Selenium
