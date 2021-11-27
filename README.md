@@ -1,4 +1,4 @@
-### Hi there 👋 I'm AVINASH TRIPATHI 
+<H1>AVINASH TRIPATHI</H1> 
 
 <!--
 **avinash224/avinash224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
