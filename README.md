@@ -26,33 +26,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/avinashstripathi/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://arghyadeep-d.medium.com/"><img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://public.tableau.com/app/profile/avinash.tripathi4778"><img height="30" src="![image](https://user-images.githubusercontent.com/61298323/143668142-1221bdbe-92b0-4f61-96c3-9d20de9bbad3.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/arghyadeep.d/"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/third_root_of_quadratic_eqn/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:arghyadeep1899@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://t.me/tensor_overflow"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/31jjxj4nl3whrmo634uns76bqjhi"><img height="30" src="https://img.shields.io/badge/spotify-green?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;
-
-</p>
-</p>
-
----
-
-
----
-
-
-
+<a href="https://www.instagram.com/when.i.blinked/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:tripathi.avinash094@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Tensorflow, Keras, Scrapy and Selenium
+- 🌱 I’m currently learning Natural Language Processing
+- 👯 I’m looking to collaborate on projects 
