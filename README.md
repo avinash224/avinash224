@@ -11,7 +11,7 @@
     👋 Hi! I am Avinash Tripathi. A <strong>data science enthusiast.</strong> I love being able to tell people what to do based on data and I aspire to become an ML/DL Cognoscente and build solution that can actually help making the lives better. I am currently pursuing my major in Data Analytics from Northeastern University and I have hands on experience on Importatnt python and R libraries. I have a strong inclination for tinkering with Machine Learning and Deep Learning. I have worked in the domain of <b> Natural Language Processing, Computer Vision</b> and <b>Generative Models</b>. I am also experienced in working with Python3, R,  Neo4j, RDBMS.
     
 <p align=center>
-    <img src="https://badges.pufler.dev/visits/arghyadeep99/avinash224?color=black&logo=github" />
+    <img src="https://badges.pufler.dev/visits/avinash224/avinash224?color=black&logo=github" />
     <img src="https://komarev.com/ghpvc/?username=avinash224&color=brightgreen" />
     <a href="https://github.com/avinash224">
     <img src="https://badges.pufler.dev/commits/monthly/avinash224?color=blue" />
