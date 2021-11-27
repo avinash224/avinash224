@@ -115,10 +115,10 @@
 
 ---
 
-### What I Listen To 🎵 :headphones:
+### IN my free time I like to Click and Wander
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31jjxj4nl3whrmo634uns76bqjhi">
+  <a href="https://www.instagram.com/when.i.blinked/">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jjxj4nl3whrmo634uns76bqjhi&width=400"></img>
   </a>
 </p>
