@@ -31,6 +31,8 @@ A <strong>Data Science Enthusiast</strong>. I love being able to tell people wha
 <a href="mailto:tripathi.avinash094@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 
 [![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=avinash224&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash224)](https://github.com/anuraghazra/github-readme-stats)
   
 <b>Current Tasks:</b>
 - 🔭 I’m currently working on Tensorflow, Keras, Scrapy and Selenium
