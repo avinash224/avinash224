@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Engineering Tools<br>👯 I’m looking to collaborate on Data Engineering and Data science related projects<br>🤝 I’m looking for help with anything related to Data<br>🌱 I’m currently learning Python, Jango, database modeling <br>💬 Ask me about anything related to Data<br>⚡ Fun fact: I am developing this habit of learning everyday. If you wish to join me on my data journey connect me on any media group. 
+🔭 I’m currently working on Data Engineering Tools<br>👯 I’m looking to collaborate on Data Engineering and Data science related projects<br>🤝 I’m looking for help with anything related to Data<br>🌱 I’m currently learning Python, Jango, database modeling <br>💬 Ask me about anything related to Data<br>⚡ Fun fact: I am developing this habit of learning everyday. If you wish to join me on my data journey connect me on any of the social media group. In my free time I like to go to the gym or just be out there clicking some fun pictures. 
 
 
 ## 🌐 Socials:
